@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "P31DBUH0YCrw9CfbXR+DlGHN6dtkiSdEEAPHdtzbxBHKAc568D40s72ipgTcMqH3yVtmNF3ZjI8kuvD9WQKxig==",
+  "success": true,
+  "projectFilePath": "\\\\Mac\\Home\\Desktop\\prueba\\prueba\\prueba.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\andrescorrotti\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
